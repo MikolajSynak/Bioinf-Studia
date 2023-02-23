@@ -1,0 +1,67 @@
+LOCUS       OX222974                2331 bp    mRNA    linear   EST 05-AUG-2022
+DEFINITION  Escherichia coli EST, clone
+            acgggcccca_tactacgatt.Nanopore_20201210, mRNA sequence.
+ACCESSION   OX222974
+VERSION     OX222974.1
+DBLINK      BioProject: PRJEB54063
+KEYWORDS    EST.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Vasarhelyi,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2022) ELKH BRC, Kintses, Temesvari korut 62,
+            Szeged, 6726, Hungary
+COMMENT     sequences of antibiotic resistance gene from the metagenomes of the
+            human gut ans soil samples and from the genomes of different
+            pathogenic bacterial strains.
+FEATURES             Location/Qualifiers
+     source          1..2331
+                     /organism="Escherichia coli"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:562"
+                     /clone="acgggcccca_tactacgatt.Nanopore_20201210"
+ORIGIN      
+        1 gaattcacgc gcgatacgac ccactgccat cagcccttcc ggggtgattt caccacccgg
+       61 agaacgcggg atcaccgagt aggtgccgtc tttttggatg ttagcgagga agttgtcgtt
+      121 agaatcctgc agcggagtat gttccggctt cagaatgtat tcgttccagc aggaggccag
+      181 cagcgaaccg acggtcggtt tacaaacttc acaaccgtaa cctttgccgt gtttcgccag
+      241 cagttcttcg aaggttttaa tgccttcaac gcggatcaaa tggaacagtt cctgacgcga
+      301 ataagcaaag tgttcacaca ggttgttgtt aacttcgata ccctgtttcg ccagttccgc
+      361 gttcagtacc tgagtgacca gcggaataca accgccgcag cccgtaccgg ctttggtttc
+      421 ggctttcagc gccgcaacgg tgtggcagcc tttgttgata gcagcaatca ggtcgccttt
+      481 ggtgacgtcg aagcaggagc agatttgcgc gctgtccggc agtttatcaa caccgataga
+      541 cggcttaccg ctacccgagt gcgccggcag aatcagagaa tccgggtttt ccggcagttc
+      601 gatagcgttc agcaccagtt gcagcaggtt gccgtagtcg ctggtatcgc ccaccagtac
+      661 cgcaccgagc agggttttgt tgtcttcgct gacaatcagg cgtttgtaga tctctttgct
+      721 ttcgtcgagg taaacgtagc tacgtgcgcc aggcgtgcga ccgtgcgcat caccaatacc
+      781 gcctacgtct acgcccagca gtttcagctt ggcgctaagg tctgcacctt caaaggcgtt
+      841 ttcgctacca agaatatggt caacggcgac ctgcgccatt ttgtagcctg gtgctaccag
+      901 accaaataca cggttgttcc agcttgcgca ttcaccgatg gcgtagatat ccggatcgga
+      961 agtctggcag gaatcattta tgacgatacc cccacgcgga gcaacgtcca gaccacactg
+     1021 ggttgccagc ttatcgcgcg gacggatacc ggtagagaag acgataaagt cgacttccag
+     1081 ttcgctgccg tcggcaaaac gcatggtttt acgcgcttca acaccttcct gcacaatctc
+     1141 aagagtgttt ttgctggtgt gaacgcgcac gcccatactt tcgattttgc gacgcagctg
+     1201 ctcgccgccc atctgatcaa gctgttccgc catcagcata ggggcaaatt tggtccggtc
+     1261 gatctggcga tcatggagaa cgggcagtat gaccaggact ggaaatatat tcacatgatg
+     1321 ccggatgaaa cagctcaggc cgccgacgac ctgcgcgctc gcgcggtgct gcctgggcat
+     1381 gcaggacgat tcgttttggc gaaacacagc tgggatgaac cgtatcaacg gctggcggct
+     1441 gccagcgaag gaagggcctg gcgtctgctg acgcctgtgc agggcgagcc ggtgtgggtc
+     1501 gccgataaga cgcaatcatt taacgcctgg tggcgctaag cgccagtgca gtatcagagg
+     1561 agagagcata tgacgatttc cgctcaggtg attgatacta tcgtcgagtg gattgatgac
+     1621 aacctgcatc aaccgctgcg tattgatgat atcgctcgcc atgccgggta ttcgaaatgg
+     1681 catctgcaac ggctgttttt acagtataaa ggggagagcc tggggcgcta tattcgcgaa
+     1741 aggaagctgc tgctggccgc ccgcgatctg cgtgacaccg atcagcgggt ctacgatatc
+     1801 tgcctgaagt atggcttcga ttcgcaacag acctttaccc gcgtcttcac ccggaccttc
+     1861 aatctgccgc cgggcgccta ccgtaaagag aaccacagtc gcgcccactg aggcgcgccc
+     1921 ttctggttta gcgttcgagc gaaaaccagc gacgccacac ccagcgcagc accagatact
+     1981 caatggcgcc cagtgctaag aaccacaaac aaaacaacac cgtataaagc tggttgagat
+     2041 ccatcatatg gaatgtctca accagctttt gcgccagcgt caggcccagc gacggcgcgg
+     2101 gcaacagcag acaggagagc agagccagga gcaggatccc ggcggcggag aggagcgttt
+     2161 ccagcggatg tttcatgtca tgttaatcat cagttaaaaa acatattgtc cggcaaaata
+     2221 atccctaacg caatatgctt tgtattttac tcgccttaat gcgcctctgt ttaatattat
+     2281 ggtctgcctt ttattcccat gttaattcca cgaagcccag caatacgtaa c
+//
+
