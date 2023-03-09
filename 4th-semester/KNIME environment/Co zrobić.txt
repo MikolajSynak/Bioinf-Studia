@@ -1,0 +1,6 @@
+Co zrobić:
+
+- dodac ratingi imdb filmweb wyspagier.pl
+- zrobic drzewko ze sredniej dlugosci nuty na albumie (HCA) i sredniej liczby odsluchów (z i bez wartosci odstających) ((czy jest jakas roznica??)
+- wysrac sie 
+- 
